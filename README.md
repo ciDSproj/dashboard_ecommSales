@@ -7,11 +7,13 @@ The dashboard below is an example focusing on sales trends, performance of the p
 <br/>
 
 
+The Dashboard was created using visuals from Sales, Products and Customer reports, which show the most important trends and figures. Using the dashboard and the reports, we can monitor results and progress. By immediately having the right information available, correct decisions can be made.
+
 ### Dataset
 The analysis uses the Kaggle [E-commerce Sales](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business/data) dataset, a sales transaction data of UK-based e-commerce (online retail) for one year. The dataset contains 536350 records and 8 attributes.
 
 ### Preparation
-I started by importing the company’s sales data into Power BI, then use Power Query Editor to clean and organize fields and do further transformations.
+I imported the company’s sales data into Power BI, then used Power Query Editor to clean and organize fields and do further transformations.
 
 ### Data Visualization and Analysis
 When creating visualizations for Dashboard, Sales. Product and Customer Reports, I looked for answers to the following questions:
