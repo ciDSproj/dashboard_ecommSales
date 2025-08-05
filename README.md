@@ -6,25 +6,25 @@ The dashboard below is an example focusing on sales trends, performance of the p
 ## Dataset
 This analysis uses the Kaggle E-commerce Sales dataset, a sales transaction data of UK-based e-commerce (online retail) for one year. The dataset contains 536350 records and 8 attributes. The following is the description of each column:
 
-1.	**TransactionNo**: a six-digit unique number that defines each transaction. The letter “C” in the code indicates a cancellation.
-2.	**Date**: the date when each transaction was generated.
-3.	**ProductNo**: a five or six-digit unique character used to identify a specific product.
-4.	**Product**: product/item name.
-5.	**Price**: the price of each product per unit in pound sterling (£).
-6.	**Quantity**: the quantity of each product per transaction. Negative values are related to cancelled transactions.
-7.	**CustomerNo**: a five-digit unique number that defines each customer.
-8.	**Country**: name of the country where the customer resides.
+- **TransactionNo**: a six-digit unique number that defines each transaction. The letter “C” in the code indicates a cancellation.
+- **Date**: the date when each transaction was generated.
+- **ProductNo**: a five or six-digit unique character used to identify a specific product.
+- **Product**: product/item name.
+- **Price**: the price of each product per unit in pound sterling (£).
+- **Quantity**: the quantity of each product per transaction. Negative values are related to cancelled transactions.
+- **CustomerNo**: a five-digit unique number that defines each customer.
+- **Country**: name of the country where the customer resides.
 
 ## Preparation
-I started by importing the company’s sales data into Power BI, then use Power Query to clean and organize fields and do further transformations.
+I started by importing the company’s sales data into Power BI, then use Power Query Editor to clean and organize fields and do further transformations.
 
 ## Data Visualization and Analysis
 When creating visualizations for Dashboard, Sales. Product and Customer Reports, I looked for answers to the following questions:
 
-#### 1. How was the sales trend over the months?
-#### 2. What are the most frequently purchased products?
-#### 3. How was the sales amount by country?
-#### 4. What are the most profitable segment customers?
+1. How was the sales trend over the months?
+2. What are the most frequently purchased products?
+3. How was the sales amount by country?
+4. What are the most profitable segment customers?
 
 ## Visualizations:
 -	Area chart for tracking sales trends, to spot seasonality and growth patterns over time
