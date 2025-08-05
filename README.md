@@ -1,4 +1,4 @@
-# Power BI E-commerce Sales Transactions 
+# Power BI E-commerce Sales
 
 The project covers creating Power BI Dashboard and Reports for analyzing sales performance and distribution across products and regions for an e-commerce dataset. 
 
