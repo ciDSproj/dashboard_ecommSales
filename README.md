@@ -1,11 +1,10 @@
 # Power BI E-commerce Sales Transactions 
 
-### Overview
 The project covers creating Power BI Dashboard and Reports for analyzing sales performance and distribution across products and regions for an e-commerce dataset. 
 
 The analysis uses the Kaggle [E-commerce Sales](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business/data) dataset, a sales transaction data of UK-based e-commerce (online retail) for one year. The dataset contains 536350 records and 8 attributes. After importing the company’s sales data into Power BI, I used Power Query Editor to clean and organize fields and do further transformations.
 
-### Data Analysis
+## Data Analysis
 When creating visualizations for Dashboard, Sales. Product and Customer Reports, I looked for answers to the following questions:
 
 1. How was the sales trend over the months?
@@ -13,7 +12,7 @@ When creating visualizations for Dashboard, Sales. Product and Customer Reports,
 3. How was the sales amount by country?
 4. What are the most profitable segment customers?
 
-### Visualizations:
+## Visualizations:
 -	Area chart for tracking sales trends, to spot seasonality and growth patterns over time
 -	Stacked bar charts to uncover top customers and topmost products
 -	For a global view, used a filled world map of product orders per country
