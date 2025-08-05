@@ -21,10 +21,10 @@ I started by importing the company’s sales data into Power BI, then use Power 
 ## Data Visualization and Analysis
 When creating visualizations for Dashboard, Sales. Product and Customer Reports, I looked for answers to the following questions:
 
-### 1. How was the sales trend over the months?
-### 2. What are the most frequently purchased products?
-### 3. How was the sales amount by country?
-### 4. What are the most profitable segment customers?
+#### 1. How was the sales trend over the months?
+#### 2. What are the most frequently purchased products?
+#### 3. How was the sales amount by country?
+#### 4. What are the most profitable segment customers?
 
 ## Visualizations:
 -	Area chart for tracking sales trends, to spot seasonality and growth patterns over time
