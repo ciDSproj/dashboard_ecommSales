@@ -10,8 +10,8 @@ When creating visualizations for Dashboard, Sales. Product and Customer Reports,
 1. How was the sales trend over the months?
 2. What are the most frequently purchased products?
 3. How was the sales amount by country?
-## 4. What are the most profitable segment customers?
-## 5. Based on the findings, what strategy could be recommended to the business to gain more profit?
+4. What are the most profitable segment customers?
+5. Based on the findings, what strategy could be recommended to the business to gain more profit?
 
 ## Visualizations:
 -	Area chart for tracking sales trends, to spot seasonality and growth patterns over time
