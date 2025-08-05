@@ -3,6 +3,10 @@ The project covers creating Power BI Dashboard and Reports for analyzing sales p
 The dashboard below is an example focusing on sales trends, performance of the products and regions, and discovering the most profitable segment customers. It offers an easy way to view the most important KPI’s and results at a glance.
 
 
+![Dashboard](Dashboard.png)
+<br/>
+
+
 ### Dataset
 The analysis uses the Kaggle [E-commerce Sales](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business/data) dataset, a sales transaction data of UK-based e-commerce (online retail) for one year. The dataset contains 536350 records and 8 attributes.
 
