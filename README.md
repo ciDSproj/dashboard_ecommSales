@@ -24,7 +24,6 @@ When creating visualizations for Dashboard, Sales. Product and Customer Reports,
 4. What are the most profitable segment customers?
 
 ### Visualizations:
-Some of the visualizations are:
 -	Area chart for tracking sales trends, to spot seasonality and growth patterns over time
 -	Stacked bar charts to uncover top customers and topmost products
 -	For a global view, used a filled world map of product orders per country
